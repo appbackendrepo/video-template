@@ -1,0 +1,10 @@
+{
+    "title": {
+        "type": "text",
+        "value": "Video Template"
+    },
+    "description": {
+        "type": "text",
+        "value": "A template demo for table backend"
+    }
+}
